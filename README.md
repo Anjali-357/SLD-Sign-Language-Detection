@@ -64,4 +64,4 @@ A Sign Language Learning Platform where who know sign language can come and prac
 - [NPM](https://www.npmjs.com/)
 
 
- fa812ef6 (Initial commit)
+
